@@ -1,4 +1,20 @@
-### Hi there 👋
+<h2> Hey there 👋  I'm Kimsure.</h2>
+
+<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+
+- 🌱 &nbsp; I am a final year M.Eng. student at Beijing Jiaotong University (BJTU) in MePro, advised by Associate Prof. Meiqin Liu and Chao Yao.
+
+<!-- 🔭 I will be an image processing engineer for VIVO Communication Technology Co. Ltd.. -->
+
+- 🔭 &nbsp; My research interest lies at image/video low-level processing (e.g. super-resolution, denoising, deblurring, etc). I am also interested in image/video codec and compression.
+
+- 😄 &nbsp; I am currently learning the image processing pipeline using python or cpp, and video processing and codec.
+
+- 🤔 &nbsp; I am looking for help with how to host a website locally.
+
+- 📫 &nbsp; How to reach me: kingsure@bjtu.edu.cn
+
+
 
 <!--
 **Kimsure/Kimsure** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
