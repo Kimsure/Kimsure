@@ -8,7 +8,7 @@
 
 - 🔭 &nbsp; My research interest lies at image/video low-level processing (e.g. super-resolution, denoising, deblurring, etc). I am also interested in image/video codec and compression.
 
-- 😄 &nbsp; I am currently learning the image processing pipeline using python or cpp, and video processing and codec.
+- 😄 &nbsp; I am currently learning the image processing pipeline using python or cpp and video codec.
 
 - 🤔 &nbsp; I am looking for help with how to host a website locally.
 
