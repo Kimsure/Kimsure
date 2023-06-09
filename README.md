@@ -13,10 +13,9 @@
 - 📫 &nbsp; How to reach me: kingsure@bjtu.edu.cn
 
 
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kimsure&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kimsure&theme=buefy&layout=compact" />
-</a>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kimsure&theme=buefy&show_icons=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kimsure&theme=buefy&layout=compact" />
+
 
 
 
