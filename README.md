@@ -14,7 +14,7 @@
 
 
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kimsure&theme=buefy&show_icons=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kimsure&count_private=true&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kimsure&theme=buefy&layout=compact" />
 </p>
 
