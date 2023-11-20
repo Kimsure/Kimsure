@@ -2,11 +2,11 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🌱 &nbsp; I am a final year M.Eng. student at Beijing Jiaotong University (BJTU) in MePro, advised by Associate Prof. Meiqin Liu and Chao Yao. And I will work for vivo Mobile Communication Ltd. as a Camera ISP Algorithm Engineer.
+- 🌱 &nbsp; I'm working for vivo Mobile Communication Ltd. as a Camera ISP Algorithm Engineer, especially focusing on auto-focus and image/video stabilization.
 
-- 🔭 &nbsp; My research interest lies at image/video low-level processing (e.g. super-resolution, denoising, deblurring, etc). I am also interested in image/video compression.
+- 🔭 &nbsp; I got an M.Eng. degree at Beijing Jiaotong University (BJTU) in MePro, advised by Associate Prof. Meiqin Liu and Chao Yao. My research interest lies in image/video low-level processing (e.g. super-resolution, denoising, deblurring, etc) and content generation. I am also interested in semantic segmentation and alignment with active learning and domain adaptation.
 
-- 😄 &nbsp; I am currently learning the image processing pipeline using python or cpp and video codec.
+- 😄 &nbsp; I am currently looking for a Ph.D. opportunity in computer vision or image/video processing.
 
 - 🤔 &nbsp; I am looking for help with how to host a website locally.
 
