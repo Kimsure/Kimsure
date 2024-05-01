@@ -2,11 +2,11 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🌱 &nbsp; I'm working for vivo Mobile Communication Ltd. as a Camera ISP Algorithm Engineer, especially focusing on auto-focus and image/video stabilization.
+- 🌱 &nbsp; I'm currently a Ph.D candidate at Liverpool University, advised by Assistant Prof. Siyue Yu and Prof. Jimin Xiao. Previously, I was a Camera ISP Algorithm Engineer at vivo Mobile Communication Ltd.
 
-- 🔭 &nbsp; I got an M.Eng. degree at Beijing Jiaotong University (BJTU) in MePro, advised by Associate Prof. Meiqin Liu and Chao Yao. My research interest lies in **image/video low-level processing** (e.g. super-resolution, denoising, deblurring, etc) and **content generation**. I am also interested in **semantic segmentation and alignment** with active learning and domain adaptation.
+- 🔭 &nbsp; I got my M.Eng. degree at Institute of Information Science (Group Leader: Yao Zhao, IEEE Fellow), Beijing Jiaotong University, advised by Associate Prof. Meiqin Liu and Chao Yao. My research interests include **semantic guided image/video low-level processing** and **semantic segmentation** with **content generation** and **domain adaptation**.
 
-- 😄 &nbsp; I am currently looking for **a Ph.D. opportunity in computer vision or image/video processing**.
+- 😄 &nbsp; I am actively looking for co-operators who are interested in **exploiting semantics for low-level task** or **exploring generation models for weakly-supervised high-level task**.
 
 - 🤔 &nbsp; I am looking for help with how to host a website locally.
 
