@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🌱 &nbsp; I'm currently a Ph.D candidate at Liverpool University, advised by Assistant Prof. Siyue Yu and Prof. Jimin Xiao. Previously, I was a Camera ISP Algorithm Engineer at vivo Mobile Communication Ltd.
+- 🌱 &nbsp; I'm currently a Ph.D candidate at Liverpool University, advised by Prof. Jimin Xiao and Siyue Yu. Previously, I was a Camera ISP Algorithm Engineer at vivo Mobile Communication Ltd.
 
 - 🔭 &nbsp; I got my M.Eng. degree at Institute of Information Science (Group Leader: Yao Zhao, IEEE Fellow), Beijing Jiaotong University, advised by Associate Prof. Meiqin Liu and Chao Yao. My research interests include **semantic guided image/video low-level processing** and **semantic segmentation** with **content generation** and **domain adaptation**.
 
