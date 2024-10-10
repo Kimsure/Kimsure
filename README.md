@@ -2,9 +2,9 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🌱 &nbsp; I'm currently a Ph.D candidate at University of Liverpool, advised by Prof. Jimin Xiao and Siyue Yu. Previously, I was a Camera Engineer at vivo Mobile Communication Ltd, focusing on AF & Image-Stablization.
+- 🌱 &nbsp; I'm currently a Ph.D candidate at [MMT lab](https://jiminxiao.github.io), University of Liverpool, advised by Prof. Jimin Xiao and Siyue Yu. Previously, I was a Camera Engineer at vivo Mobile Communication Ltd, focusing on AF & Image-Stablization.
 
-- 🔭 &nbsp; I got my M.Eng. degree at Institute of Information Science (Group Leader: Yao Zhao, IEEE Fellow), Beijing Jiaotong University, advised by Associate Prof. Meiqin Liu and Chao Yao. My research interests include **semantic-guided/alignment-based image&video low-level processing** and **zero-shot/open-vocabulary segmentation**.
+- 🔭 &nbsp; I got my M.Eng. degree at [Institute of Information Science](http://mepro.bjtu.edu.cn) (Group Leader: Yao Zhao, IEEE Fellow), Beijing Jiaotong University, advised by Associate Prof. Meiqin Liu and Chao Yao. My research interests include **semantic-guided/alignment-based image&video low-level processing** and **zero-shot/open-vocabulary segmentation**.
 
 - 😄 &nbsp; I am actively looking for co-operators who are interested in **exploiting semantics for low-level vision** or **open-vocabulary learning segmentation/detection**.
 
