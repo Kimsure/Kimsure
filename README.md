@@ -1,18 +1,14 @@
 <h2> Hey there 👋  I'm Kimsure.</h2>
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+<h3> 👨🏻‍💻 &nbsp;About Me </h3> 
 
-- 🌱 &nbsp; I'm currently a Ph.D candidate at [MMT lab](https://jiminxiao.github.io), University of Liverpool, advised by Prof. Jimin Xiao and Siyue Yu. Previously, I was a Camera Engineer at vivo Mobile Communication Ltd, focusing on AF & Image-Stablization.
+- 🌱 &nbsp; I'm [MyPage](http://Kimsure.github.io) currently a Ph.D candidate at [MMT lab](https://jiminxiao.github.io), University of Liverpool, advised by Dr. Siyue Yu, Prof. Jimin Xiao and Xiaowei Huang. Previously, I was a Camera Engineer at vivo Mobile Communication Ltd, focusing on AF & Image-Stablization.
 
-- 🔭 &nbsp; I got my M.Eng. degree at [Institute of Information Science](http://mepro.bjtu.edu.cn) (Group Leader: Yao Zhao, IEEE Fellow), Beijing Jiaotong University, advised by Associate Prof. Meiqin Liu and Chao Yao. My research interests include **semantic-guided/alignment-based image&video low-level processing** and **zero-shot/open-world perception**.
+- 🔭 &nbsp; I got my M.Eng. degree at [Institute of Information Science](http://mepro.bjtu.edu.cn) (Group Leader: Yao Zhao, IEEE Fellow), Beijing Jiaotong University, advised by Prof. Meiqin Liu and Chao Yao. My research interests include **semantic-guided/alignment-based low-level vision** and **zero-shot/open-world perception**.
 
-- 😄 &nbsp; I am actively looking for co-operators who are interested in **exploiting semantics for low-level vision** or **open-vocabulary learning segmentation/detection**.
+- 😄 &nbsp; I am actively looking for co-operators who are interested in **exploiting semantics for low-level vision** or **open-vocabulary segmentation/detection**.
 
-<!-- 
-- 🤔 &nbsp; I am looking for help with how to host a website locally.
--->
-
-- 📫 &nbsp; How to reach me: kingsure@bjtu.edu.cn
+- 📫 &nbsp; Contact: kingsure@bjtu.edu.cn // [MyPage](http://Kimsure.github.io)
 
 
 <p align="left"> 
