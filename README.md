@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3> 
 
-- 🌱 &nbsp; I'm [MyPage](http://Kimsure.github.io) currently a Ph.D candidate at [MMT lab](https://jiminxiao.github.io), University of Liverpool, advised by Dr. Siyue Yu, Prof. Jimin Xiao and Xiaowei Huang. Previously, I was a Camera Engineer at vivo Mobile Communication Ltd, focusing on AF & Image-Stablization.
+- 🌱 &nbsp; I'm currently a Ph.D candidate at [MMT lab](https://jiminxiao.github.io), University of Liverpool, advised by Dr. Siyue Yu, Prof. Jimin Xiao and Xiaowei Huang. Previously, I was a Camera Engineer at vivo Mobile Communication Ltd, focusing on AF & Image-Stablization.
 
 - 🔭 &nbsp; I got my M.Eng. degree at [Institute of Information Science](http://mepro.bjtu.edu.cn) (Group Leader: Yao Zhao, IEEE Fellow), Beijing Jiaotong University, advised by Prof. Meiqin Liu and Chao Yao. My research interests include **semantic-guided/alignment-based low-level vision** and **zero-shot/open-world perception**.
 
