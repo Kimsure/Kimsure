@@ -3,15 +3,15 @@
 
 <img align='right' src="https://github-readme-stats-eight-theta.vercel.app/api?username=Kimsure&show_icons=true" width="450">
 
-🌱 Ph.D candidate at [MMT lab](https://jiminxiao.github.io), University of Liverpool.
 
-🔭 Alumni of [MePro](http://mepro.bjtu.edu.cn), Beijing Jiaotong University.
+🧑‍🎓 Ph.D candidate at [MMT lab](https://jiminxiao.github.io), University of Liverpool.<br>
+📱 Camera engineer at [vivo](https://vivo.com).<br>
+🌱 Alumni of [MePro](http://mepro.bjtu.edu.cn), Beijing Jiaotong University.<br>
+📫 Contact: Shuo.Jin@liverpool.ac.uk <br>
+💬 About me: Explore more on [Kim's site](http://Kimsure.github.io).<br>
+🔭 Open to Collaboration on open-world segmentation and low-level vision research.
 
-📫 Contact: Shuo.Jin@liverpool.ac.uk
 
-💬 About me: Explore more on [Kim's site](http://Kimsure.github.io)
-
-👯 Open to Collaboration on open-world segmentation and low-level vision research.
 
 <!--
 **Kimsure/Kimsure** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
