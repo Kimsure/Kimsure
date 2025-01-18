@@ -1,7 +1,7 @@
 
 <h2> Hey there 👋  I'm Kimsure.</h2>
 
-<img align='right' src="https://github-readme-stats-eight-theta.vercel.app/api?username=Kimsure&show_icons=true">
+<img align='right' src="https://github-readme-stats-eight-theta.vercel.app/api?username=Kimsure&show_icons=true" width="450">
 
 🌱 Ph.D candidate at [MMT lab](https://jiminxiao.github.io), University of Liverpool.
 
