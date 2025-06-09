@@ -1,5 +1,7 @@
 
-<h2> Hey there 👋  I'm Kimsure.</h2>
+<h2> Hey there 👋  I'm Kimsure.</h2> 
+
+![](https://komarev.com/ghpvc/?username=Kimsure&style=flat)
 
 <img align='right' src="https://github-readme-stats-eight-theta.vercel.app/api?username=Kimsure&show_icons=true" width="450">
 
@@ -10,6 +12,7 @@
 - 📫 Contact: Shuo.Jin@liverpool.ac.uk <br>
 - 💬 About me: Explore more on [Kim's site](http://Kimsure.github.io).<br>
 - 🔭 Open to Collaboration on open-world segmentation and low-level vision research.
+
 
 
 
